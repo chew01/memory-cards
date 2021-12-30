@@ -1,0 +1,20 @@
+.gameboard {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.scoreboard {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 2px dashed black;
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
