@@ -26,7 +26,7 @@ const Gameboard = (props) => {
 
   const randomizeCards = () => {
     let list = [];
-    for (let i = 0; i < 12; i++) {
+    for (let i = 0; i < 13; i++) {
       list.push(i);
     }
 
